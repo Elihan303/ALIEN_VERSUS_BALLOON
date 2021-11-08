@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Sonido de explosion de la nave.mp3-2914870f797e806db181c73e0ca505f0.mp3str"
+
+[deps]
+
+source_file="res://Sounds/Sonido de explosion de la nave.mp3"
+dest_files=[ "res://.import/Sonido de explosion de la nave.mp3-2914870f797e806db181c73e0ca505f0.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

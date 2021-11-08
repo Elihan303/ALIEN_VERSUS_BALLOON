@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Sonido al perder la partida.mp3-8ed36c632c349e747861536521215fa9.mp3str"
+
+[deps]
+
+source_file="res://Sounds/Sonido al perder la partida.mp3"
+dest_files=[ "res://.import/Sonido al perder la partida.mp3-8ed36c632c349e747861536521215fa9.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
